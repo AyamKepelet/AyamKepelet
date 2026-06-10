@@ -20,9 +20,9 @@ Rafi is a passionate software engineering student with a strong interest in fron
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyamKepelet&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyamKepelet&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
 
 </div>
 
@@ -38,7 +38,7 @@ Rafi is a passionate software engineering student with a strong interest in fron
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafi)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyamKepelet)
 
 </div>
 
