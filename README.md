@@ -4,7 +4,7 @@
 
 ### Gemar Belajar | 
 
-Rafi is a passionate software engineering student with a strong interest in front-end web development. enjoys transforming ideas into responsive, user-friendly websites while continuously strengthening his understanding of programming.
+Suka hal yang berdekatan dengan teknologi.
 
 </div>
 
