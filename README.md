@@ -42,11 +42,6 @@ Suka hal yang berdekatan dengan teknologi.
 
 </div>
 
----
-
----
-
----
 
 <div align="center">
 
